@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codio85.github.io/snippets-fw45yd/sitemap.xml
